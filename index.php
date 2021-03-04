@@ -9,11 +9,11 @@
 	<meta name="author" content="Template.net">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>One Page Construction</title>
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="view/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/aos.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="view/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="view/css/aos.css">
+	<link rel="stylesheet" type="text/css" href="view/css/style.css">
 	<!--Google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 </head>
@@ -23,7 +23,7 @@
 	<header>
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light">
-				<a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+				<a class="navbar-brand" href="index.html"><img src="view/images/logo.png" alt="logo"></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
@@ -51,6 +51,10 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="#Contact">Contact</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="anmeldung.php">login</a>
 						</li>
 					</ul>
 				</div>
@@ -144,7 +148,7 @@
 						<div class="item">
 							<div class="slide">
 								<figure>
-									<img src="images/construction-1.png" alt="construction" class="img-fluid  people">
+									<img src="view/images/construction-1.png" alt="construction" class="img-fluid  people">
 									<figcaption class="owl-services-content">
 										<h4><a href="">Plan Certification</a></h4>
 										<p> Lorem ipsum dolor sit amet, consectetur adi piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellent esque sit amet. Ullamcorper di gnissim cras tincidunt lobortis feugiat vivamus at. Lorem</p>
@@ -155,7 +159,7 @@
 						<div class="item">
 							<div class="slide">
 								<figure>
-									<img src="images/construction-2.png" alt="construction" class="img-fluid  people">
+									<img src="view/images/construction-2.png" alt="construction" class="img-fluid  people">
 									<figcaption class="owl-services-content">
 										<h4><a href="">Plan Certification</a></h4>
 										<p> Lorem ipsum dolor sit amet, consectetur adi piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellent esque sit amet. Ullamcorper di gnissim cras tincidunt lobortis feugiat vivamus at. Lorem</p>
@@ -166,7 +170,7 @@
 						<div class="item">
 							<div class="slide">
 								<figure>
-									<img src="images/construction-3.png" alt="construction" class="img-fluid  people">
+									<img src="view/images/construction-3.png" alt="construction" class="img-fluid  people">
 									<figcaption class="owl-services-content">
 										<h4><a href="">Plan Certification</a></h4>
 										<p> Lorem ipsum dolor sit amet, consectetur adi piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellent esque sit amet. Ullamcorper di gnissim cras tincidunt lobortis feugiat vivamus at. Lorem</p>
@@ -177,7 +181,7 @@
 						<div class="item">
 							<div class="slide">
 								<figure>
-									<img src="images/construction-1.png" alt="construction" class="img-fluid  people">
+									<img src="view/images/construction-1.png" alt="construction" class="img-fluid  people">
 									<figcaption class="owl-services-content">
 										<h4><a href="">Plan Certification</a></h4>
 										<p> Lorem ipsum dolor sit amet, consectetur adi piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellent esque sit amet. Ullamcorper di gnissim cras tincidunt lobortis feugiat vivamus at. Lorem</p>
@@ -217,7 +221,7 @@
 												<div class="col-lg-6 ">
 													<div class="content-1">
 														<figure>
-															<img src="images/portfolio.jpg" alt="portfolio">
+															<img src="view/images/portfolio.jpg" alt="portfolio">
 														</figure>
 													</div>
 												</div>
@@ -237,7 +241,7 @@
 												<div class="col-lg-6 ">
 													<div class="content-1">
 														<figure>
-															<img src="images/portfolio.jpg" alt="portfolio">
+															<img src="view/images/portfolio.jpg" alt="portfolio">
 														</figure>
 													</div>
 												</div>
@@ -257,7 +261,7 @@
 												<div class="col-lg-6 ">
 													<div class="content-1">
 														<figure>
-															<img src="images/portfolio.jpg" alt="portfolio">
+															<img src="view/images/portfolio.jpg" alt="portfolio">
 														</figure>
 													</div>
 												</div>
@@ -292,7 +296,7 @@
 			<div class="row">
 				<div class="col-lg-6 thumbnail">
 					<figure>
-						<img src="images/construction-team.jpg" alt="construction-team">
+						<img src="view/images/construction-team.jpg" alt="construction-team">
 					</figure>
 				</div>
 				<div class="col-lg-6 construction-team-inner">
@@ -318,7 +322,7 @@
 								<div class="row nogap">
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team1.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team1.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Simon Andrew</h4>
 												<p class="card-text">Working Advisor</p>
@@ -341,7 +345,7 @@
 									</div>
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team2.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team2.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Michael Samuels</h4>
 												<p class="card-text">Project Manager</p>
@@ -368,7 +372,7 @@
 								<div class="row nogap">
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team1.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team1.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Simon Andrew</h4>
 												<p class="card-text">Working Advisor</p>
@@ -391,7 +395,7 @@
 									</div>
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team2.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team2.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Michael Samuels</h4>
 												<p class="card-text">Project Manager</p>
@@ -418,7 +422,7 @@
 								<div class="row nogap">
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team1.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team1.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Simon Andrew</h4>
 												<p class="card-text">Working Advisor</p>
@@ -441,7 +445,7 @@
 									</div>
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team2.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team2.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Michael Samuels</h4>
 												<p class="card-text">Project Manager</p>
@@ -468,7 +472,7 @@
 								<div class="row nogap">
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team1.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team1.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Simon Andrew</h4>
 												<p class="card-text">Working Advisor</p>
@@ -491,7 +495,7 @@
 									</div>
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team2.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team2.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Michael Samuels</h4>
 												<p class="card-text">Project Manager</p>
@@ -518,7 +522,7 @@
 								<div class="row nogap">
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team1.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team1.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Simon Andrew</h4>
 												<p class="card-text">Working Advisor</p>
@@ -541,7 +545,7 @@
 									</div>
 									<div class=" col-md-6 col">
 										<div class="card mb-2">
-											<img class="card-img-top" src="images/team2.jpg" alt="Card image cap">
+											<img class="card-img-top" src="view/images/team2.jpg" alt="Card image cap">
 											<div class="card-body">
 												<h4 class="card-title ">Michael Samuels</h4>
 												<p class="card-text">Project Manager</p>
@@ -607,7 +611,7 @@
 							<div class="testimonials-content block">
 								<div class="col-md-3">
 									<figure>
-										<img src="images/client-1.png" alt="client-1">
+										<img src="view/images/client-1.png" alt="client-1">
 									</figure>
 								</div>
 								<div class="col-md-9 content">
@@ -626,7 +630,7 @@
 								</div>
 								<div class="col-md-3">
 									<figure>
-										<img src="images/client-2.png" alt="client-2">
+										<img src="view/images/client-2.png" alt="client-2">
 									</figure>
 								</div>
 							</div>
@@ -634,7 +638,7 @@
 					</div>
 					<div class="col-lg-4 thumbnail">
 						<figure>
-							<img src="images/testimonial-img.jpg" alt="testimonial-img">
+							<img src="view/images/testimonial-img.jpg" alt="testimonial-img">
 						</figure>
 					</div>
 				</div>
@@ -742,12 +746,12 @@
 	</footer>
 	<!-- footer end -->
 
-	<script src="js/jquery.min.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/owl.carousel.js"></script>
-	<script src="js/aos.js"></script>
-	<script src="js/custom.js"></script>
+	<script src="control/js/jquery.min.js"></script>
+	<script src="control/js/popper.min.js"></script>
+	<script src="control/js/bootstrap.min.js"></script>
+	<script src="control/js/owl.carousel.js"></script>
+	<script src="control/js/aos.js"></script>
+	<script src="control/js/custom.js"></script>
 
 </body>
 
